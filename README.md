@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kenithk
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Computer Science at Metropolitan State University
+- 🌱 I graduated with a degree in Computer Science at Metropolitan State University
 - 💞️ I’m looking to collaborate on fun projects!
 - 📫 I can be reached at kenith55337@gmail.com
 
